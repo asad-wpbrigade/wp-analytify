@@ -305,7 +305,7 @@ class Analytify_Email_Core {
 													</tr>
 													<tr>
 														<td	style="font: normal 14px \'Roboto\', Arial, Helvetica, sans-serif; padding: 0px 20px 0px 20px;">
-															<font color="#848484">Check out the following metrics and examine the growth of your online venture.</font>
+															<font color="#848484">'. __( "Check out the following metrics and examine the growth of your online venture.", "wp-analytify") . '</font>
 														</td>
 													</tr>
 												</table>
@@ -618,7 +618,7 @@ class Analytify_Email_Core {
 													</tr>
 													<tr>
 														<td	style="font: normal 14px \'Roboto\', Arial, Helvetica, sans-serif; padding: 0px 20px 0px 20px;">
-															<font color="#848484">In the last 7 Days Analytify helped you have site visits of 2,601, total Click of 55, and total CTR of 2</font>
+															<font color="#848484">'. __( "Check out the following metrics and examine the growth of your online venture.", "wp-analytify") . '</font>
 														</td>
 													</tr>
 												</table>
